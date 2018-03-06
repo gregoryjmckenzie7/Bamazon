@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "app similar to amazon",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "ctable": "0.0.3",
+    "inquirer": "^5.1.0",
+    "my-sql": "^1.2.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregoryjmckenzie7/Bamazon.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregoryjmckenzie7/Bamazon/issues"
+  },
+  "homepage": "https://github.com/gregoryjmckenzie7/Bamazon#readme"
+}
