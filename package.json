@@ -4,6 +4,7 @@
   "description": "app similar to amazon",
   "main": "bamazonCustomer.js",
   "dependencies": {
+    "console.table": "^0.10.0",
     "ctable": "0.0.3",
     "inquirer": "^5.1.0",
     "my-sql": "^1.2.15"
